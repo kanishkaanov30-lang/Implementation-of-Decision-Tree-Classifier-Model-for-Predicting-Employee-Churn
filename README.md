@@ -95,7 +95,8 @@ else:
 
 
 ## Output:
-![Uploading image.png…]()
+
+<img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/44e467e6-c2bd-4f9c-a478-15ef03a3aee1" />
 
 
 ## Result:
